@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Sauce Las Test automtion regression suite" duration-ms="27232" started-at="2022-08-11T21:20:42 IST" finished-at="2022-08-11T21:21:10 IST">
+    <groups>
+    </groups>
+    <test name="Sauce Test - Chrome" duration-ms="26773" started-at="2022-08-11T21:20:42 IST" finished-at="2022-08-11T21:21:09 IST">
+      <class name="com.mytests.SauceTest">
+        <test-method status="PASS" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.mytests.SauceTest@612679d6]" name="setUp" is-config="true" duration-ms="10781" started-at="2022-08-11T21:20:43 IST" finished-at="2022-08-11T21:20:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[macOS 10.15]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[85.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[public void com.mytests.SauceTest.checkAddToCartButtonTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkAddToCartButtonTest()[pri:1, instance:com.mytests.SauceTest@612679d6]" name="checkAddToCartButtonTest" duration-ms="4053" started-at="2022-08-11T21:20:53 IST" finished-at="2022-08-11T21:20:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAddToCartButtonTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mytests.SauceTest@612679d6]" name="tearDown" is-config="true" duration-ms="391" started-at="2022-08-11T21:20:57 IST" finished-at="2022-08-11T21:20:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.mytests.SauceTest@612679d6]" name="setUp" is-config="true" duration-ms="6916" started-at="2022-08-11T21:20:58 IST" finished-at="2022-08-11T21:21:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[macOS 10.15]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[85.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[public void com.mytests.SauceTest.checkInventoryItemTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkInventoryItemTest()[pri:2, instance:com.mytests.SauceTest@612679d6]" name="checkInventoryItemTest" duration-ms="4137" started-at="2022-08-11T21:21:05 IST" finished-at="2022-08-11T21:21:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkInventoryItemTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mytests.SauceTest@612679d6]" name="tearDown" is-config="true" duration-ms="408" started-at="2022-08-11T21:21:09 IST" finished-at="2022-08-11T21:21:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mytests.SauceTest -->
+    </test> <!-- Sauce Test - Chrome -->
+    <test name="Sauce Test - FF" duration-ms="27232" started-at="2022-08-11T21:20:42 IST" finished-at="2022-08-11T21:21:10 IST">
+      <class name="com.mytests.SauceTest">
+        <test-method status="PASS" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.mytests.SauceTest@52feb982]" name="setUp" is-config="true" duration-ms="11581" started-at="2022-08-11T21:20:43 IST" finished-at="2022-08-11T21:20:54 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Windows 7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[79.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[public void com.mytests.SauceTest.checkAddToCartButtonTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkAddToCartButtonTest()[pri:1, instance:com.mytests.SauceTest@52feb982]" name="checkAddToCartButtonTest" duration-ms="3603" started-at="2022-08-11T21:20:54 IST" finished-at="2022-08-11T21:20:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAddToCartButtonTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mytests.SauceTest@52feb982]" name="tearDown" is-config="true" duration-ms="327" started-at="2022-08-11T21:20:58 IST" finished-at="2022-08-11T21:20:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:0, instance:com.mytests.SauceTest@52feb982]" name="setUp" is-config="true" duration-ms="7658" started-at="2022-08-11T21:20:58 IST" finished-at="2022-08-11T21:21:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Windows 7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[79.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[public void com.mytests.SauceTest.checkInventoryItemTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkInventoryItemTest()[pri:2, instance:com.mytests.SauceTest@52feb982]" name="checkInventoryItemTest" duration-ms="3689" started-at="2022-08-11T21:21:06 IST" finished-at="2022-08-11T21:21:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkInventoryItemTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mytests.SauceTest@52feb982]" name="tearDown" is-config="true" duration-ms="293" started-at="2022-08-11T21:21:09 IST" finished-at="2022-08-11T21:21:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mytests.SauceTest -->
+    </test> <!-- Sauce Test - FF -->
+  </suite> <!-- Sauce Las Test automtion regression suite -->
+</testng-results>
